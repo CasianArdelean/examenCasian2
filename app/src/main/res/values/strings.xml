@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EXAMEN PROM</string>
+
+    <string name="main_menu">MENU PRINCIPAL</string>
+    <string name="volver">VOLVER</string>
+    <string name="localizacion">Escoge una de las siguientes localidades:</string>
+    <string name="nombreQuimico">Introduce el nombre del elemento químico:</string>
+    <string name="InformacionElemento">INFORMACIÓN DEL ELEMENTO</string>
+    <string name="simbolo">Símbolo Químico:</string>
+    <string name="numeroAt">Número Atómico:</string>
+    <string name="pesoAt">Peso Atómico:</string>
+    <string name="ebullicion">Punto de Ebullición:</string>
+    <string name="densidad">Denisdad:</string>
+    <string name="tiemp">El tiempo</string>
+    <string name="atom">Datos Atómicos</string>
+    <string name="son">Sonidos Multimedia</string>
+</resources>
